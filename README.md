@@ -1,11 +1,36 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Bienvenue sur mon hébergeur gratuit</title>
-  </head>
-  <body>
-    <h1>Hébergeur GitHub de Matheo Laflaf</h1>
-    <p>Site hébergé gratuitement grâce à GitHub Pages 🎉</p>
-  </body>
+ <header>
+        <h1>Mon Expérience </h1>
+    </header>
+
+    <section>
+        <h2>Alternance en entreprise</h2>
+        <p>
+            Durant mon stage, j’ai eu l’opportunité de découvrir le monde professionnel à travers des activités concrètes et techniques. 
+            Cette immersion m’a permis de comprendre les exigences, les méthodes et les outils utilisés dans un environnement de travail réel.
+        </p>
+    </section>
+
+    <section>
+        <h2>Ce que je fais en entreprise</h2>
+        <p>
+            Ce que j’ai particulièrement apprécié, c’est la partie liée à la pratique. Que ce soit l’assemblage de composants, 
+            l’analyse de circuits ou l’utilisation d’outils comme le multimètre ou l’oscilloscope, j’ai trouvé cela passionnant. 
+            Le démontage d’un variateur, son remontage et l’analyse de panne ont été des expériences très enrichissantes.
+        </p>
+        <p>
+            Grâce à cette expérience, j’ai découvert un intérêt réel pour le domaine de l’électronique. J’aime comprendre comment 
+            les choses fonctionnent et voir concrètement le résultat de mon travail.
+        </p>
+    </section>
+
+    <section>
+        <h2>Mes améliorations en matières professionnelles au CFA</h2>
+        <p>
+            À la suite de cette première année, je peux dire aujourd’hui que j’ai des difficultés marquées en cyber et en programmation. 
+            C’est un secteur qui me motive, mais dans lequel je dois progresser. C’est un domaine dans lequel je me sens à l’aise et 
+            que j’aimerais approfondir à l’avenir.
+        </p>
+    </section>
+
+</body>
 </html>
